@@ -30,9 +30,11 @@ En supposant que les produits à imprimer comportent moins de cinquante caractè
 ``` (string) "100100101010100110100010" ```
 ### Input:
 ``` (string) plaintext = "Braille" ```
-### Output
+### Output:
 ``` (string) "000001110000111010100000010100111000111000100010" ```
+
 ---
+
 ## Cas d'utilisation
 - Fabrication d'articles d'épicerie accessibles
 - Blocs Braille réutilisables et réimprimables
